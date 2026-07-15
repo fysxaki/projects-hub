@@ -17,6 +17,9 @@
 /.next/
 /out/
 
+# todo 本地数据库（SQLite）
+/data/
+
 # production
 /build
 
