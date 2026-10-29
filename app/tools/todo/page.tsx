@@ -5,6 +5,7 @@ import TodoList from "@/components/TodoList";
 export const metadata: Metadata = {
   title: "今日任务 · Projects Hub",
   description: "列出今天要做的事，一件件勾掉。",
+  alternates: { canonical: "/tools/todo" },
 };
 
 export default function TodoPage() {

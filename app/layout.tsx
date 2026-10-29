@@ -16,6 +16,8 @@ export const metadata: Metadata = {
   title: "Yael · Projects Hub",
   description: "Yael 的项目集，包括 SelfTend、Blog 等个人作品。",
   metadataBase: new URL("https://fysxq.lat"),
+  alternates: { canonical: "/" },
+  keywords: ["Yael", "fysxq", "SelfTend", "个人项目", "前端", "Go", "React", "Next.js"],
   openGraph: {
     title: "Yael · Projects Hub",
     description: "Yael 的项目集",
